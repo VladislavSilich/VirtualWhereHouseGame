@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map>
+    <points>
+        <point x="50" y="5"/>
+        <point x="150" y="5"/>
+        <point x="150" y="100"/>
+        <point x="450" y="100"/>
+        <point x="450" y="250"/>
+        <point x="50" y="250"/>
+        <point x="50" y="70"/>
+    </points>
+    <exit>
+        <door x="50" y="30"/>
+    </exit>
+    <boxes>
+        <box x="300" y="170"/>
+        <box x="150" y="200"/>
+    </boxes>
+    <robots>
+        <robot x="300" y="210"/>
+        <robot x="50" y="30"/>
+    </robots>
+</map>
